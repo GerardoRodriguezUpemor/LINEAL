@@ -27,6 +27,14 @@ java -cp target/classes org.upemor.personal.lineal.LINEAL
 
 ## 🎯 ¿Por Dónde Empezar?
 
+<div align="center">
+
+### 🚀 **¿NUEVO? EMPIEZA AQUÍ** 🚀
+**➡️ [📍 INICIO RÁPIDO - Tu Próximo Paso](EMPEZAR_AQUI.md)** ⭐
+*Guía paso a paso para tu primera semana de aprendizaje*
+
+</div>
+
 ### 📚 **PASO 1: Comienza Tu Aprendizaje**
 ➡️ **[INICIA AQUÍ: Guía Completa del Viaje](README_COMPLETE_JOURNEY.md)** ⭐
 - Tu roadmap personalizado completo
